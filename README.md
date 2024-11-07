@@ -1,7 +1,7 @@
 ## Hi, friends brought together by fate! 🇨🇳
 ![GitHub Streak](https://streak-stats.demolab.com/?user=cloudpetticoats)
 
-![](https://komarev.com/ghpvc/?username=cloudpetticoats)
+![](https://komarev.com/ghpvc/?username=cloudpetticoats&color=blueviolet&style=for-the-badge)
 
 
 
