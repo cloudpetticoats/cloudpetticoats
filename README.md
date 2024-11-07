@@ -1,6 +1,6 @@
 ## Hi, friends brought together by fate! 🇨🇳
 ![GitHub Streak](https://streak-stats.demolab.com/?user=cloudpetticoats)
-![](https://visitor-badge.glitch.me/badge?page_id=cloudpetticoats)
+![](https://visitor-badge.glitch.me/badge?page_id=cloudpetticoats.readme)
 
 
 A master student in **computer science**, planning to pursue a Ph.D. in the future. 
