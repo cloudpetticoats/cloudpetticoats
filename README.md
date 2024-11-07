@@ -7,7 +7,7 @@ A master student in **computer science**, planning to pursue a Ph.D. in the futu
 
 My research interests include **edge computing, reinforcement learning, resource scheduling, semantic communications, and graph neural networks**.
 
-For those in similar fields, feel free to connect on social media, We can exchange ideas and collaborate with each other. Please reach out via email first.
+For those in similar fields, feel free to connect on social media, we can exchange ideas and collaborate with each other. Please reach out via email first.
 
 ✉️Email: zhanghaishuo2002@foxmail.com
 <!--
