@@ -1,6 +1,15 @@
 ## Hi, friends brought together by fate! 🇨🇳
 ![GitHub Streak](https://streak-stats.demolab.com/?user=cloudpetticoats)
+![](https://visitor-badge.glitch.me/badge?page_id=cloudpetticoats)
 
+
+A master student in **computer science**, planning to pursue a Ph.D. in the future. 
+
+Research interests include **edge computing, reinforcement learning, resource scheduling, semantic communications, and graph neural networks**.
+
+For those in similar fields, feel free to connect on social media; please reach out via email first.
+
+✉️Email: zhanghaishuo2002@foxmail.com
 <!--
 **cloudpetticoats/cloudpetticoats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
