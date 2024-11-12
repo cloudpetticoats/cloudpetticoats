@@ -3,11 +3,11 @@
 
 ![](https://komarev.com/ghpvc/?username=cloudpetticoats&color=blueviolet&style=for-the-badge)
 
-A master student in **computer science**, planning to pursue a Ph.D. in the future. 
+A master student in **computer science**👨‍💻, planning to pursue a Ph.D. in the future. 
 
-My research interests include **edge computing, reinforcement learning, semantic communications, and graph neural networks**.
+My research interests include **edge computing, reinforcement learning and semantic communications**.
 
-For those in similar fields, feel free to connect on social media, we can exchange ideas and collaborate with each other. Please reach out via email first.
+For those in similar fields, feel free to connect on social media, we can 🍻make friends and 🤝collaborate with each other. Please reach out via email first.
 
 ✉️Email: zhanghaishuo2002@foxmail.com
 <!--
