@@ -5,7 +5,7 @@
 
 A master student in **computer science**👨‍💻, planning to pursue a Ph.D. in the future. 
 
-My research interests include **edge computing, reinforcement learning and semantic communications**.
+My research interests include **edge computing, reinforcement learning and resource allocation**.
 
 For those in similar fields, feel free to connect on social media, we can 🍻make friends and 🤝collaborate with each other. Please reach out via email first.
 
