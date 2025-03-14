@@ -3,11 +3,11 @@
 
 ![](https://komarev.com/ghpvc/?username=cloudpetticoats&color=blueviolet&style=for-the-badge)
 
-An MPhil student in **computer science**👨‍💻, planning to pursue a Ph.D. in the future. 
+I'm an MPhil student in **computer science**👨‍💻, planning to pursue a Ph.D. in the future.
 
 My research interests include **mobile edge computing, deep reinforcement learning, internet of vehicles**.
 
-For those in similar fields, feel free to connect on social media, we can 🍻make friends and 🤝collaborate. Please feel free to reach out via email.
+For those in similar fields, feel free to connect on social media, we can 🍻make friends and 🤝collaborate. Please **feel free to reach out via email**.
 
 ✉️Email: zhanghaishuo2002@foxmail.com
 <!--
