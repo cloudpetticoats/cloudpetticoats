@@ -7,8 +7,6 @@ I'm an MPhil student in **computer science**👨‍💻, planning to pursue a Ph
 
 My research interests include **mobile edge computing, deep reinforcement learning, internet of vehicles**.
 
-For those in similar fields, feel free to connect on social media, we can 🍻make friends and 🤝collaborate. Please **feel free to reach out via email**.
-
 ✉️Email: zhanghaishuo2002@foxmail.com
 <!--
 **cloudpetticoats/cloudpetticoats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
