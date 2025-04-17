@@ -1,5 +1,5 @@
 ## Hi, friends brought together by fate! 🏸
-![GitHub Streak](https://streak-stats.demolab.com/?user=cloudpetticoats)
+![Haishuo Zhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudpetticoats&show_icons=true)
 
 ![](https://komarev.com/ghpvc/?username=cloudpetticoats&color=blueviolet&style=for-the-badge)
 
@@ -10,7 +10,7 @@ My research interests include **mobile edge computing, deep reinforcement learni
 ✉️Email: zhanghaishuo2002@foxmail.com
 <!--
 **cloudpetticoats/cloudpetticoats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=cloudpetticoats)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
