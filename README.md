@@ -11,6 +11,7 @@ My research interests include **mobile edge computing, deep reinforcement learni
 <!--
 **cloudpetticoats/cloudpetticoats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![GitHub Streak](https://streak-stats.demolab.com/?user=cloudpetticoats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudpetticoats&layout=compact)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
