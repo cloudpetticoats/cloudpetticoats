@@ -5,7 +5,7 @@
 
 I'm an MPhil student in **computer science**👨‍💻, planning to pursue a Ph.D. in the future.
 
-My research interests include **mobile edge computing, deep reinforcement learning, internet of vehicles**.
+My research focuses on deep reinforcement learning-enabled edge computing.
 
 ✉️Email: zhanghaishuo2002@foxmail.com
 <!--
