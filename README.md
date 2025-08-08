@@ -7,7 +7,7 @@ I'm an MPhil student in **computer science**👨‍💻, planning to pursue a Ph
 
 My research focuses on deep reinforcement learning-enabled edge computing.
 
-✉️Email: zhanghaishuo2002@foxmail.com
+✉️Email: haishuo@foxmail.com / haishuo88@gmail.com
 <!--
 **cloudpetticoats/cloudpetticoats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![GitHub Streak](https://streak-stats.demolab.com/?user=cloudpetticoats)
