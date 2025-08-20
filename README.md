@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=cloudpetticoats&color=blueviolet&style=for-the-badge)
 
-I'm an MPhil student in **computer science**👨‍💻, planning to pursue a Ph.D. in the future.
+I'm an MPhil student in **computer science**👨‍💻.
 
 My research focuses on deep reinforcement learning-enabled edge computing.
 
