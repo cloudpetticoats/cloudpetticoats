@@ -5,7 +5,7 @@
 
 I'm an MPhil student in **computer science**👨‍💻.
 
-My research focuses on deep reinforcement learning-enabled edge computing.
+My research focuses on AI for networking.
 
 ✉️Email: haishuo@foxmail.com / haishuo88@gmail.com
 <!--
