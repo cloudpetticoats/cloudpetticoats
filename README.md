@@ -5,7 +5,7 @@
 
 I'm an MPhil student in **computer science**👨‍💻.
 
-My research focuses on AI for networking.
+My research focuses on AI for networking and networking for AI.
 
 ✉️Email: haishuo@foxmail.com / haishuo88@gmail.com
 <!--
